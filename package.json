@@ -1,0 +1,10 @@
+{
+  "name": "aws-lambda-python3",
+  "version": "1.0.0",
+  "main": "handler.py",
+  "author": "v0xnihili",
+  "license": "MIT",
+  "dependencies": {
+    "serverless-python-requirements": "^5.0.1"
+  }
+}
