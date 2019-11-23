@@ -1,5 +1,5 @@
 {
-  "name": "aws-lambda-python3",
+  "name": "serverless-lambda-python3",
   "version": "1.0.0",
   "main": "handler.py",
   "author": "v0xnihili",
